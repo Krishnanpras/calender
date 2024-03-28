@@ -1,4 +1,4 @@
 # Calender HTML CSS & JavaScript 
 
 
-<img src="./image/project.png">
+<img src="./Image/Project.png">
